@@ -1,0 +1,133 @@
+
+ 
+@media only screen and (min-width: 0px) and (max-width: 767px) {
+    .cus-nav{
+        text-align: center;
+        display: inline-block;
+    }
+   #blog .blog-content {
+    margin-top: 100px;
+    font-size: 23px;
+    color: #2f2f2f; }
+  #blog .sp1 {
+    font-size: 36px;
+    font-weight: 600; }
+  #blog .col-sm-6 .div1-1 {
+      margin: 20px 0px;
+     }
+  #blog .col-sm-6 .div1-2 {
+    margin: 20px 0px;
+    }
+  #blog .col-sm-6 .div2-1 {
+    margin: 20px 0px;
+    }
+  #blog .col-sm-6 .div2-2 {
+    margin: 20px 0px; }
+  #blog .col-sm-6 .row {
+    border: 1px solid #fff;
+    padding: 15px 0px;
+    background-color: #fff;
+    border-radius: 5px; }
+    #work .Work-content {
+    margin-top: 40px;
+    margin-bottom: 60px; }
+    #work .cus-tab-menu li {
+      padding: 5px;
+      margin: 2px 5px;
+      background-color: #fff;
+      display: inline-block;
+      border-radius: 15px;
+        width: 200px;
+    }
+     #work .cus-tab .col-sm-6 img {
+    border: 5px solid #fff;
+    border-radius: 15px;
+    
+    margin-top: 15px;
+    margin-bottom: 15px; }
+    
+    #work .cus-tab  img:hover {
+      opacity: 0.1; }
+  #work .pluse-icon i {
+    margin: 50px 0px 50px 0px;
+    padding: 10px 15px;
+    background-color: #fff;
+    color: #2f2f2f;
+    border-radius: 10px; }
+     #about-us .about-content {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 23px;
+    }
+     #about-us .about-content {
+    margin-top: 30px;}
+    
+        #about-us .col-sm-4 .row {
+      margin-bottom: 60px; }
+    
+    #footer {
+  padding-bottom: 70px; }
+  #footer .col-sm-6 {
+    padding-top: 60px; }
+    
+        
+#footer .col-sm-6 i {
+      margin: 4px;
+      border-radius: 50%; }
+    #footer .col-sm-6 .fbIcon {
+      padding: 10px 17px; }
+    #footer .col-sm-6 .twitterIcon {
+      padding: 10px; }
+    #footer .col-sm-6 .GoPIcon {
+      padding: 11px; }
+    
+    #contact .contact-content {
+    padding-top: 60px;
+    padding-bottom: 40px; }
+    #contact .form input {
+        
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px; }
+  #contact .form textarea {
+    margin-top: 5px;
+    margin-bottom: 5px; }
+
+  
+ 
+    
+}
+
+
+ 
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+ 
+
+    
+    
+}
+ 
+
+
+ 
+@media only screen and (min-width: 480px) and (max-width: 640px) {
+ 
+    
+    
+    
+}
+
+
+@media only screen and (min-width: 375px) and (max-width: 667px) {
+ 
+   
+    
+    
+}
+
+
+
+
+
+
